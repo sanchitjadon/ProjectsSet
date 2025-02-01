@@ -1,0 +1,23 @@
+body{
+    display: flex;
+    justify-content: center;
+    background-color:#212121; 
+    color:#fff;
+}
+#wrapper {
+    padding: 100px;
+    background-color: black;
+}
+p {
+    display: flex;
+    justify-content: center;
+    color: darksalmon;
+}
+#newGame {
+    color: aquamarine;
+}
+.form {
+    padding: 10px;
+    margin-left: 2px;
+    margin-right: 2px;
+}
